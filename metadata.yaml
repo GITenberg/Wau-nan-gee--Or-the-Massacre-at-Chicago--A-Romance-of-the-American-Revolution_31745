@@ -1,0 +1,31 @@
+_repo: Wau-nan-gee--Or-the-Massacre-at-Chicago--A-Romance-of-the-American-Revolution_31745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richardson, Major (John)
+    alias: Richardson, John
+    birthdate: 1796
+    deathdate: 1852
+    gutenberg_agent_id: '1558'
+    url: http://www.gutenberg.org/2009/agents/1558
+    wikipedia: http://en.wikipedia.org/wiki/John_Richardson_%28author%29
+description: ''
+gutenberg_issued: '2010-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31745'
+  lccn: 07041218
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fort Dearborn Massacre, Chicago, Ill., 1812 -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Massacres -- Fiction'
+title: 'Wau-nan-gee; Or, the Massacre at Chicago: A Romance of the American Revolution'
+url: http://www.gutenberg.org/ebooks/31745
