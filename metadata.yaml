@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1558
     wikipedia: http://en.wikipedia.org/wiki/John_Richardson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31745#Wau-nan-gee--Or-the-Massacre-at-Chicago--A-Romance-of-the-American-Revolution
 gutenberg_issued: '2010-03-23'
 gutenberg_type: Text
 identifiers:
